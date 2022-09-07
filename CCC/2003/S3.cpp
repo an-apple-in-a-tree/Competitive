@@ -1,8 +1,7 @@
 //
-//  main.cpp
 //  StrategicBombing
 //solved
-//  Created by Gloria L on 2022-06-26.
+//  Created by Gloria on 2022-06-26.
 //
 
 #include <iostream>
